@@ -7,7 +7,7 @@ Now that you've seen how to create different types of links, it's time for you t
 1. Open index.html and review the code and comments.
 2. Near the top of the page, use an `<img>` tag to embed `html.jpeg`, which is in the `images` subfolder.
     1. This is an called a **relative link**.
-    2. It depends on the fact that to get from this page, to html.jpeg, we first have to go into the images folder.
+    2. It den the fact that to get from this page, to html.jpeg, we first have to go into the images folder.pends on the fact that to get from this page, to html.jpeg, we first have to go into the images folder.
 3. Under that, create a link to a website of your choice. Have it open in a new window.
     1. See the `target` attribute on the [W3Schools &lt;a&gt; tag page for help on opening in a new tab/window](https://www.w3schools.com/tags/tag_a.asp)
     2. This is called an **absolute link**.
